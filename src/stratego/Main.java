@@ -66,6 +66,6 @@ public class Main extends JPanel implements ActionListener{
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 	}
-	p
+	
 
 }
